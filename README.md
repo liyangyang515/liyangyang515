@@ -9,11 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Yangyang is currently a full time master student from Applied GIS programme. She is also working as a part-time research fellow in NTU. She obtained her Bachelor in Civil Eng in 2015 and PhD in Sustainable Earth in 2019, both from NTU. She cares more about sustainability related topics, which are quite broad as well. She has applied numerical modelling, machine learning (data-driven) methods in her previous work (mapping soil properties and soil mositure content, assessing tree and slope stability under rainfall etc). Her current research interests involves the use of but are not limited to remote sensing, street view imagery, GIS, spatial data mining in air quality prediciton, natural hazard mapping, as well as sentiment analyses during crisis like Covid pandemic.
-You can get connected with me or check my previous work from:
-Linkin: www.linkedin.com/in/liyangyang515
-Google Scholar: https://scholar.google.com.sg/citations?user=COasNI0AAAAJ&hl=en
-ResearchGate: https://www.researchgate.net/profile/Yangyang-Li-11
+
 
 <!--
 **liyangyang515/liyangyang515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +24,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Yangyang is currently a full time master student from Applied GIS programme. She is also working as a part-time research fellow in NTU. She obtained her Bachelor in Civil Eng in 2015 and PhD in Sustainable Earth in 2019, both from NTU. She cares more about sustainability related topics, which are quite broad as well. She has applied numerical modelling, machine learning (data-driven) methods in her previous work (mapping soil properties and soil mositure content, assessing tree and slope stability under rainfall etc). Her current research interests involves the use of but are not limited to remote sensing, street view imagery, GIS, spatial data mining in air quality prediciton, natural hazard mapping, as well as sentiment analyses during crisis like Covid pandemic.
+You can get connected with me or check my previous work from:
+Linkin: www.linkedin.com/in/liyangyang515
+Google Scholar: https://scholar.google.com.sg/citations?user=COasNI0AAAAJ&hl=en
+ResearchGate: https://www.researchgate.net/profile/Yangyang-Li-11
 -->
